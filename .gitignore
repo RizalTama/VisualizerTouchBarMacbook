@@ -1,0 +1,11 @@
+# Build artifacts
+.build/
+*.app/
+
+# Tooling lokal (Claude Code), bukan bagian dari project
+.claude/
+Claude.md
+CLAUDE.md
+
+# macOS
+.DS_Store
